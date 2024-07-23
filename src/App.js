@@ -14,7 +14,7 @@ const styles = {
     maxWidth: "100%",
     overflow: "hidden",
     borderRadius: "8px",
-    height: "400px",
+    height: "380px",
     backgroundColor: "black",
     display: "flex",
     alignItems: "center", 
